@@ -1,0 +1,10 @@
+package pom;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class Constants 
+{
+	public static WebDriver driver=new FirefoxDriver();
+
+}
